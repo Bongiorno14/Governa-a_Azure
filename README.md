@@ -1,4 +1,4 @@
-# CRIANDO GRUPO DE RECURSOS NO AZURE
+# GOVERNANÇA NO AZURE
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Bongiorno14/Governa-a_Azure/blob/main/LICENSE) 
 
 # OVERVIEW
@@ -12,9 +12,9 @@ Antes de mergulhar nos detalhes técnicos, é essencial entender o papel crucial
 
 ## FERRAMENTAS
 Links para as Calculadoras.
-<https://azure.microsoft.com/pt-br/pricing/tco/calculator>
-<https://azure.microsoft.com/pt-br/pricing/calculator>
-AZURE
+- <https://azure.microsoft.com/pt-br/pricing/tco/calculator>
+- <https://azure.microsoft.com/pt-br/pricing/calculator>
+- AZURE
 
 
 # Aprendizado
