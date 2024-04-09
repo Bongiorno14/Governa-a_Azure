@@ -35,9 +35,39 @@ Links para as Calculadoras.
 - <https://azure.microsoft.com/pt-br/pricing/calculator>
 - AZURE
 
-# APRENDIZADO
+## APRENDIZADO
 
 - Tive a oportunidade de explorar a utilização desta ferramentas, fazer uma simulaçao e obter as estimativas, bem como os beneficios da utilizaçao das mesmas.
 - Um ponto importante é a facilidade da obtenção das informações das estimativas, e o site é muito intuitivo, direto, e se caso tens alguma duvida, todo campo tem o ícone de informaçao adicional.
 
-  
+# UPDATE I - PORTAL DE CONFIANÇA DO SERVIÇO E MICROSOFT PURVIEW
+
+Neste update fiz um pequeno resumo em conisderaçao ao site do Portal de Confiança do serviço, bem como algumas caracteristicas do Microsoft Purview.
+
+## PORTAL DE CONFIANÇA
+O Portal de Confiança do Serviço da Microsoft é uma plataforma que oferece transparência e informações detalhadas sobre as práticas de segurança, privacidade e conformidade da empresa. Vamos explorar seus principais aspectos:
+- Certificações: O portal destaca as certificações obtidas pela Microsoft em relação a padrões de segurança e privacidade, como ISO 27001, SOC 1 e 2, HIPAA, GDPR e muitas outras. Essas certificações demonstram o compromisso da empresa em adotar práticas de segurança robustas.
+- Regulamentos e Padrões: Além das certificações, o portal aborda os regulamentos e padrões de conformidade aos quais a Microsoft se compromete, como o GDPR na União Europeia, a Lei de Privacidade do Consumidor da Califórnia (CCPA) nos EUA e outros requisitos locais e globais.
+- Relatórios de Conformidade: O portal disponibiliza relatórios detalhados sobre a conformidade dos serviços da Microsoft com os padrões e regulamentos mencionados. Isso inclui informações sobre controles de segurança implementados, auditorias realizadas e outras métricas relevantes.
+- Recursos Regionais: Há também informações específicas sobre conformidade e segurança relacionadas a diferentes regiões do mundo. Isso inclui detalhes sobre como os dados são armazenados e processados em conformidade com as leis locais de proteção de dados.
+- Recursos dos Setores: O portal oferece recursos direcionados a setores específicos, como saúde, educação, governo e outros. Esses recursos abordam requisitos e melhores práticas de segurança e privacidade relevantes para cada setor.
+
+## MICROSOFT PURVIEW
+
+O Microsoft Purview é uma plataforma de governança de dados desenvolvida pela Microsoft para ajudar as organizações a gerenciar e proteger seus dados de forma eficiente. Algumas funcionalidades:
+- Descoberta de Dados: O Purview permite que as organizações descubram e identifiquem seus dados em diferentes fontes, incluindo nuvem, local e híbrida. Ele usa conectores pré-construídos para se integrar a uma variedade de sistemas de armazenamento de dados, como Azure Data Lake Storage, SQL Server, AWS S3, Oracle, entre outros.
+- Classificação e Catalogação: Após a descoberta, o Purview ajuda a classificar e catalogar os dados com metadados detalhados, incluindo tags, tipos de dados, proprietários, políticas de uso, entre outros. Isso permite uma organização mais eficiente e uma compreensão clara do que cada conjunto de dados contém e como ele deve ser tratado.
+- Governança de Dados: A plataforma oferece recursos robustos de governança de dados, permitindo que as organizações estabeleçam políticas de acesso, privacidade e conformidade para seus dados. Isso inclui o monitoramento de atividades de acesso aos dados, auditoria e a capacidade de impor políticas automatizadas para garantir o cumprimento das regulamentações.
+- Colaboração e Insights: O Purview promove a colaboração entre equipes, permitindo que diferentes partes interessadas acessem e compartilhem informações sobre os dados de forma segura e controlada. Ele também fornece insights e análises sobre a qualidade dos dados, padrões de uso e tendências, ajudando as organizações a tomar decisões informadas sobre seus dados.
+- Integração com Ecossistema Microsoft: Como parte do ecossistema Microsoft, o Purview se integra perfeitamente a outras soluções, como Azure Synapse Analytics, Power BI e Azure Data Factory, oferecendo uma abordagem completa para gerenciamento e análise de dados.
+
+## FERRAMENTAS
+- <https://servicetrust.microsoft.com/>
+- <https://www.microsoft.com/pt-br/security/business/microsoft-purview>
+- AZURE
+
+## APRENDIZADO
+
+- O entendimento acerca do Portal de confiança é de que necessitamos ter o correto entendimento das politicas e normas vigente para cada pais, para estarmos cobertos quanto aos polices necessários, procedimentos e regras de negócio.
+- O Microsoft Purview vonsolida e gere todos os polices cada para regra de negócio.
+
