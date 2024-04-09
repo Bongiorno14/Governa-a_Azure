@@ -71,3 +71,50 @@ O Microsoft Purview é uma plataforma de governança de dados desenvolvida pela 
 - O entendimento acerca do Portal de confiança é de que necessitamos ter o correto entendimento das politicas e normas vigente para cada pais, para estarmos cobertos quanto aos polices necessários, procedimentos e regras de negócio.
 - O Microsoft Purview vonsolida e gere todos os polices cada para regra de negócio.
 
+# UPDATE II - CLOUD SHELL, POWER SHELL, AZURE ARC E MODELOS ARM. 
+
+## Azure Cloud Shell:
+
+- Azure Cloud Shell é uma interface de linha de comando baseada na nuvem que permite aos usuários acessar um ambiente de shell diretamente no navegador.
+- O mesmo oferece suporte aos shells Bash e PowerShell.
+- Vem pré-configurado com várias ferramentas e SDKs, como Azure CLI, Azure PowerShell, Terraform, etc.
+- Permite o acesso a arquivos de armazenamento na nuvem para persistência de dados.
+- Acessível de qualquer lugar com conexão à Internet.
+- Não requer instalação local de ferramentas ou SDKs.
+- Facilita a automação e a execução de tarefas administrativas no Azure.
+
+## Azure PowerShell:
+
+- Azure PowerShell é uma extensão do PowerShell que permite aos usuários gerenciar recursos do Azure usando scripts e cmdlets específicos do Azure.
+- Fornece cmdlets para interagir com serviços, como criação, modificação e exclusão de recursos.
+- Permite automação de tarefas complexas e repetitivas.
+- Integrado com a autenticação do Azure para acesso seguro aos recursos.
+- Integração nativa com outros serviços e ferramentas do Azure.
+- Suporte para automação avançada e gerenciamento de infraestrutura como código.
+
+## Azure Arc:
+
+- Azure Arc é uma solução que estende os serviços de gerenciamento do Azure para ambientes externos, como data centers locais, infraestrutura multicloud e bordas de rede.
+- Permite registrar e gerenciar recursos externos no Azure, como máquinas virtuais, Kubernetes e bancos de dados.
+- Oferece recursos de governança, conformidade e segurança centralizados.
+- Habilita a implantação de políticas e configurações consistentes em ambientes heterogêneos.
+- Gerenciamento unificado de recursos em vários ambientes.
+- Implementação de práticas de governança e segurança em ambientes distribuídos.
+- Integração com ferramentas de automação e orquestração do Azure.
+
+## Modelos ARM (Azure Resource Manager):
+
+- Modelos ARM são arquivos JSON que definem a infraestrutura e a configuração de recursos no Azure de forma declarativa.
+- Descreve recursos, dependências, propriedades e configurações em um formato legível por máquina.
+- Permite a implantação consistente e repetível de recursos do Azure.
+- Suporta a organização modular de recursos e a parametrização de configurações.
+- Automação de implantação e gerenciamento de recursos.
+- Documentação clara da infraestrutura como código.
+- Validação prévia de configurações e dependências antes da implantação.
+
+### Aspectos adicionais quanto aos modelos ARM
+
+- Sintaxe Declarativa: Os modelos ARM usam uma sintaxe declarativa baseada em JSON (JavaScript Object Notation). Isso significa que você descreve o estado desejado da infraestrutura em vez de especificar uma série de etapas para alcançar esse estado.
+- Resultados Repetíveis: Implementando o mesmo modelo várias vezes, o estado resultante da infraestrutura será sempre o mesmo, o que promove consistência e confiabilidade.
+- Orquestração: É possivel definir dependências entre recursos, garantindo que sejam implantados na ordem correta.
+- Arquivos Modulares:Pode-se dividir o modelo em partes menores e reutilizáveis. Isso facilita a manutenção, a colaboração em equipe e a organização lógica do código.
