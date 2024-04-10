@@ -118,3 +118,25 @@ O Microsoft Purview é uma plataforma de governança de dados desenvolvida pela 
 - Resultados Repetíveis: Implementando o mesmo modelo várias vezes, o estado resultante da infraestrutura será sempre o mesmo, o que promove consistência e confiabilidade.
 - Orquestração: É possivel definir dependências entre recursos, garantindo que sejam implantados na ordem correta.
 - Arquivos Modulares:Pode-se dividir o modelo em partes menores e reutilizáveis. Isso facilita a manutenção, a colaboração em equipe e a organização lógica do código.
+
+# UPDATE III - SERVIÇOS DE MONITORAMENTO
+
+Uma abordagem dos 3 principaos serviços de monitoramento do Azure:
+
+## Azure Advisor:
+
+- O Azure Advisor é um serviço de otimização que fornece recomendações personalizadas para ajudar a melhorar a segurança, confiabilidade, desempenho e eficiência dos recursos implantados no Azure.
+- Ele analisa as configurações e o uso dos recursos para identificar oportunidades de economia de custos, otimização de desempenho e aprimoramento da segurança.
+- As recomendações do Azure Advisor abrangem áreas como configurações de segurança, disponibilidade de VMs, dimensionamento de recursos, otimização de custos e atualizações de serviço.
+
+## Azure Monitor:
+
+- O Azure Monitor é uma plataforma de monitoramento abrangente que coleta e analisa dados de vários recursos do Azure, como VMs, aplicativos Web, bancos de dados e muito mais.
+- Ele fornece insights em tempo real sobre o desempenho e a integridade dos recursos, permitindo a detecção precoce de problemas e a resolução proativa de incidentes.
+- O Azure Monitor oferece recursos como monitoramento de métricas, logs, alertas, dashboards personalizados e integração com ferramentas de terceiros.
+
+## Azure Resource Health:
+
+- O Azure Resource Health é um serviço que fornece informações sobre a integridade e a disponibilidade dos recursos implantados no Azure.
+- Ele ajuda a monitorar o status operacional dos recursos e a identificar se há problemas afetando sua disponibilidade.
+- O Azure Resource Health oferece insights sobre a causa raiz de problemas, informações de status em tempo real e recomendações para resolver problemas de integridade.
